@@ -122,8 +122,8 @@ footer .glyphicon {
 #titulo{
 	font-family: 'Bitter', serif;
 	font-size: 35px;
-	text-shadow: rgba();
     color:white;
+	background-color:#79E8D1;
 }
 
 
@@ -242,7 +242,7 @@ h6{
 
 /* PERSONALIZADOS */
 .bg-success-dark{
-    background: #b9dca4;
+    background: #fff;
 }
 
 #cora{
